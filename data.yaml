@@ -1,19 +1,19 @@
 # 名前等
-date: 2018年 6月 5日現在
-name_kana: りれきしょ　かくたろう
-name: 履歴書　書太郎
-birth_day: 1543年1月31日 (満 73 歳)
+date: 2025年 6月 20日現在
+name_kana: さわだ　けいと
+name: 澤田　桂都
+birth_day: 2000年6月30日 (満 24 歳)
 gender: 男
-cell_phone: 090-1234-5678
-email: hoge@hogehoge.org
-photo: photo.jpg
+cell_phone: 080-5825-9894
+email: sawada.keito.f5@s.mail.nagoya-u.ac.jp
+photo: profile.JPG
 
 # 住所
-address_kana: とうきょうとちよだくちよだ
-address: 東京都千代田区千代田1-1-1
-address_zip: 100-0001
-tel: 0120-000-XXX
-fax: 0120-111-XXX
+address_kana: あいちけんなごやしちくさくねこがほらどおり
+address: 愛知県名古屋市千種区猫洞通4丁目31（302号室）
+address_zip: 464-0032
+tel:
+fax:
 # 連絡先
 address_kana2: ほっかいどう わっかないし そうやみさき
 address2: 北海道稚内市宗谷岬
@@ -22,83 +22,86 @@ tel2: 0120-222-XXX
 fax2: 0120-333-XXX
 
 # 学位
-degree: 博士(工学)
+degree: 修士(情報学)
 # 学位取得年度
-degree_year: 20XX年度
+degree_year: 2024年度
 # 学位授与機関
-degree_affiliation: 履歴書大学
+degree_affiliation: 名古屋大学
 # 学位論文
-thesis_title: How to write a resume without a spreadsheet
+thesis_title: 大局的構造生成のための小節特徴量系列モデリングに基づく階層的自動作曲
 
 
 # 学歴
 education:
-  - 
-    year: 20XX
+  -
+    year: 2019
+    month: 3
+    value: 愛知県立時習館高等学校 卒業
+  -
+    year: 2019
     month: 4
-    value: 履歴書大学履歴書学部 入学
-  - 
-    year: 20XX
+    value: 名古屋大学情報学部コンピュータ科学科 入学
+  -
+    year: 2023
     month: 3
     value: 同 卒業
-  - 
-    year: 20XX
+  -
+    year: 2023
     month: 4
-    value: 履歴書大学履歴書研究科履歴書専攻博士前期課程 入学
-  - 
-    year: 20XX
+    value: 名古屋大学情報学研究科知能システム学専攻博士前期課程 入学
+  -
+    year: 2025
     month: 3
     value: 同 修了
-  - 
-    year: 20XX
+  -
+    year: 2025
     month: 4
-    value: 履歴書大学履歴書研究科履歴書専攻博士後期課程 入学
-  - 
-    year: 20XX
-    month: 3
-    value: 同 修了
+    value: 名古屋大学情報学研究科知能システム学専攻博士後期課程 入学
 
 
 
 #職歴
 experience:
-  - 
+  -
     year: 20XX
     month: 4
     value: 株式会社履歴書入社
-  - 
+  -
     year: 20XX
     month: 10
     value: 株式会社履歴書退職
-  - 
+  -
     year: 20XX
     month: 10
     value: 株式会社XXX 入社
-  - 
+  -
     value: 現在にいたる
 
 # 免許・資格
 licences:
-  - 
-    year: 19XX
-    month: 11
+  -
+    year: 2019
+    month: 8
     value: 普通自動車免許
-  - 
-    year: 20XX
-    month: 11
-    value: 履歴書検定1級
-
+  -
+    year: 2020
+    month: 3
+    value: 大型自動二輪免許
+  -
+    year: 2021
+    month: 19
+    value: TOEIC L&R 805
 
 # 主な受賞・表彰等
 awards:
   -
-    year: 20XX
-    month: 
-    value: 第二回履歴書学会ポスター賞
+    year: 2021
+    month: 6
+    value: Tongaliビジネスプランコンテスト2021 チームSnitch 大和証券賞
   -
-    year: 20XX
-    month: 
-    value: 第五回履歴書学会若手奨励賞
+    year: 2021
+    month: 8
+    value: お盆deハッカソン 協賛企業賞
 
 # 教育歴
 teaching: |
@@ -108,8 +111,8 @@ teaching: |
 
 # 所属学会
 affiliated_society: |
-  日本履歴書学会
-  神エクセル研究会
+  情報処理学会
+  日本音響学会
 
 # その他特記事項
 notices: |
@@ -117,30 +120,27 @@ notices: |
   希望職位： 助教
 
 #通勤時間
-commuting_time:  1時間20分
+commuting_time:  20分
 
 #扶養家族数(配偶者を除く)
-dependents: ２人
+dependents: 0人
 
 #配偶者の有無
-spouse: 有
+spouse: 無
 
 #配偶者の扶養義務
-supporting_spouse: 有
+supporting_spouse: 無
 
 #趣味
 hobby: |
-  趣味はコンパイラいじめです。
-  特技は素手でMOをフォーマットできます。
-  ちくわ大明神。
+  ピアノ演奏，作編曲（2005年より）
+  空手（2008年より）
+  機械学習関連の技術調査（2021年より）
 
 #志望動機
 motivation: |
-  遊ぶ金欲しさ
+  応募理由書に記載のため省略
 
 # 本人希望記入欄
 request: |
-  5000兆円欲しい。
-  5000兆FLOPSも欲しい。
-  5000兆プロセスも欲しい。
-  でもスレッドはそんなにたくさんいらない。 
+  a
