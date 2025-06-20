@@ -9,17 +9,17 @@ email: sawada.keito.f5@s.mail.nagoya-u.ac.jp
 photo: profile.JPG
 
 # 住所
-address_kana: あいちけんなごやしちくさくねこがほらどおり
+address_kana: あいちけん なごやし ちくさく ねこがほらどおり
 address: 愛知県名古屋市千種区猫洞通4丁目31（302号室）
 address_zip: 464-0032
 tel:
 fax:
 # 連絡先
-address_kana2: ほっかいどう わっかないし そうやみさき
-address2: 北海道稚内市宗谷岬
-address_zip2: 098-6758
-tel2: 0120-222-XXX
-fax2: 0120-333-XXX
+address_kana2:
+address2: 現住所に同じ
+address_zip2:
+tel2:
+fax2:
 
 # 学位
 degree: 修士(情報学)
@@ -57,25 +57,23 @@ education:
     year: 2025
     month: 4
     value: 名古屋大学情報学研究科知能システム学専攻博士後期課程 入学
+  -
+    value: 同 在学中
 
 
 
 #職歴
 experience:
+  # -
+  #   year: 20XX
+  #   month: 10
+  #   value: 株式会社履歴書退職
+  # -
+  #   year: 20XX
+  #   month: 10
+  #   value: 株式会社XXX 入社
   -
-    year: 20XX
-    month: 4
-    value: 株式会社履歴書入社
-  -
-    year: 20XX
-    month: 10
-    value: 株式会社履歴書退職
-  -
-    year: 20XX
-    month: 10
-    value: 株式会社XXX 入社
-  -
-    value: 現在にいたる
+    value: なし
 
 # 免許・資格
 licences:
@@ -105,9 +103,9 @@ awards:
 
 # 教育歴
 teaching: |
-  「履歴書学特論」平成15年から17年まで
-  「PDF出力特論」平成18年から23年まで
-  「スタイルファイル特別演習」平成20年から29年まで
+#   「履歴書学特論」平成15年から17年まで
+#   「PDF出力特論」平成18年から23年まで
+#   「スタイルファイル特別演習」平成20年から29年まで
 
 # 所属学会
 affiliated_society: |
@@ -143,4 +141,4 @@ motivation: |
 
 # 本人希望記入欄
 request: |
-  a
+
